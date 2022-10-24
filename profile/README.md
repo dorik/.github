@@ -1,1 +1,1 @@
-<img alt="Dorik Github Banner" src="./dorik-banner.png"/>
+<img alt="Dorik Github Banner" src="/profile/dorik-banner.png"/>
